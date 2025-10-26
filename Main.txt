@@ -20,9 +20,9 @@ local redzlib = {
 	}),
 	["Color Hub 2"] = Color3.fromRGB(15, 0, 20),
 	["Color Stroke"] = Color3.fromRGB(60, 0, 90),
-	["Color Theme"] = Color3.fromRGB(130, 0, 255),
-	["Color Text"] = Color3.fromRGB(240, 240, 255),
-	["Color Dark Text"] = Color3.fromRGB(180, 150, 200)
+	["Color Theme"] = Color3.fromRGB(90, 0, 150),
+	["Color Text"] = Color3.fromRGB(180, 150, 200),
+	["Color Dark Text"] = Color3.fromRGB(130, 100, 160)
 },
 Dark = {
 	["Color Hub 1"] = ColorSequence.new({
@@ -32,9 +32,9 @@ Dark = {
 	}),
 	["Color Hub 2"] = Color3.fromRGB(18, 0, 25),
 	["Color Stroke"] = Color3.fromRGB(80, 0, 120),
-	["Color Theme"] = Color3.fromRGB(150, 0, 255),
-	["Color Text"] = Color3.fromRGB(240, 240, 255),
-	["Color Dark Text"] = Color3.fromRGB(180, 160, 210)
+	["Color Theme"] = Color3.fromRGB(100, 0, 180),
+	["Color Text"] = Color3.fromRGB(180, 160, 210),
+	["Color Dark Text"] = Color3.fromRGB(140, 120, 190)
 },
 Purple = {
 	["Color Hub 1"] = ColorSequence.new({
@@ -44,9 +44,9 @@ Purple = {
 	}),
 	["Color Hub 2"] = Color3.fromRGB(18, 0, 25),
 	["Color Stroke"] = Color3.fromRGB(80, 0, 120),
-	["Color Theme"] = Color3.fromRGB(150, 0, 255),
-	["Color Text"] = Color3.fromRGB(240, 240, 255),
-	["Color Dark Text"] = Color3.fromRGB(180, 160, 210),
+	["Color Theme"] = Color3.fromRGB(100, 0, 180),
+	["Color Text"] = Color3.fromRGB(180, 160, 210),
+	["Color Dark Text"] = Color3.fromRGB(140, 120, 190),
 	["Color Dark Purple"] = Color3.fromRGB(120, 0, 200),
 	["Color Hub 9"] = Color3.fromRGB(0, 0, 0),
 	["Color Dark Greem"] = Color3.fromRGB(43, 255, 0)
