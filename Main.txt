@@ -2967,8 +2967,8 @@ function Tab:AddDiscordInvite(Configs)
 		local BannerGradient = Create("UIGradient", BannerArea, {
 			Rotation = -15,
 			Color = ColorSequence.new({
-				ColorSequenceKeypoint.new(0, Color3.fromRGB(64, 0, 120)),
-				ColorSequenceKeypoint.new(1, Color3.fromRGB(180, 130, 220))
+				ColorSequenceKeypoint.new(0, Color3.fromRGB(60, 0, 120)),
+				ColorSequenceKeypoint.new(1, Color3.fromRGB(80, 0, 150))
 			})
 		})
 	end
